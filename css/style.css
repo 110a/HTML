@@ -24,6 +24,7 @@ nav {
 }
 li {
 	display: inline-block;
+	margin-right: 10px;
 }
 article {
 	display: inline-block;
